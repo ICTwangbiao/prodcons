@@ -1,4 +1,6 @@
 Prodcons
+@author ICTwangbiao
+
 @date 2014.09.03
 (1) Uses the Queue object and the way randomly generated and consumed goods.
 (2) Producers and consumers operating independently and concurrently.
